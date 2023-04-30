@@ -7,6 +7,10 @@ Welcome to RL-GPT, a research project exploring the use of reinforcement learnin
 ## What is RL-GPT?
 RL-GPT is an experimental project that aims to improve the efficiency and effectiveness of language model training by using reinforcement learning. In this project, we will train a hypothetical version of the GPT series of language models, GPT-4, using RL techniques to optimize its performance.
 
+## Developers We want to work with
+[@mithril-security](https://github.com/mithril-security/blindai) - This project with blindai is critical to the development of hyper-personalized LLMs. 
+
+
 ## How to use RL-GPT?
 Currently, RL-GPT is in its early development stages and is not yet available for general use. However, we plan to release the code and models once we have achieved meaningful results.
 
